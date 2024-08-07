@@ -1,0 +1,9 @@
+data
+chroma
+.venv
+.env
+*.md
+.gitignore
+
+.idea/
+__pycache__/
